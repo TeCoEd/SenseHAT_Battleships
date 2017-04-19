@@ -19,3 +19,8 @@ Video of game: https://www.youtube.com/watch?v=SoIWA1JHCac
 
 Some other SenseHAT hacks: http://www.tecoed.co.uk/sense-hat-hacks.html
 
+Feel free to make improvements:
+
+- torpedo count?
+- animations?
+
