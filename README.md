@@ -10,10 +10,10 @@ When you have used all your Torpedoes up or you have destroyed all the ships, th
 
 # To Play
 
-Use Python 3+
-Download or clone this repo.
-Open the folder called Battleships
-Run the program called Battleships_Game.py
+- Use Python 3+
+- Download or clone this repo.
+- Open the folder called Battleships
+- Run the program called Battleships_Game.py
 
 Video of game: https://www.youtube.com/watch?v=SoIWA1JHCac
 
