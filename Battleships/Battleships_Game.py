@@ -2,7 +2,7 @@
 ### Battleships coded by TeCoEd ################
 ################################################
 
-'''Text to Sppech from http://www.fromtexttospeech.com/'''
+'''Text to Speach from http://www.fromtexttospeech.com/'''
 
 import random
 import time
@@ -197,7 +197,7 @@ while play_game == True:
     print ("Welcome")
     time.sleep(1)
 
-    S = [47, 47, 47] ### change to 000 
+    S = [49, 49, 49] ### change to 000 
     '''Creates a grid of 64 blue pixels, the sea'''
     Sea = [
     S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S
